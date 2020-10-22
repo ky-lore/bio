@@ -30,6 +30,9 @@
       font-family: 'Roboto', sans-serif;
       width: 500px;
       color: rgb(255, 237, 211);
+      border-radius: 25px;
+      padding: 5px;
+      opacity: 80%;
   }
 
   #rounded {
