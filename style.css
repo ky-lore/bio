@@ -1,29 +1,44 @@
-#header {
-    font-family: 'Piazzolla', serif;
-    margin: auto;
-    color: rgb(255, 237, 211);
-}
+  body, html {
+      height: 100%;
+  }
 
-#subHeader {
-    font-family: 'Piazzolla', serif;
-    font-size: 24px;
-    color: rgb(255, 237, 211);
-}
+  .bg {
+      /* The image used */
+      background-image: url("https://wallpapercave.com/wp/wp4918883.jpg");
+      /* Full height */
+      height: 100%;
+      /* Center and scale the image nicely */
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  }
 
-#bodyText {
-    font-family: 'Roboto', sans-serif;
-    width: 500px;
-    color: rgb(255, 237, 211);
-}
+  #header {
+      font-family: 'Piazzolla', serif;
+      margin: auto;
+      color: rgb(255, 237, 211);
+  }
 
-#rounded {
-    border-radius: 25px;
-    background: hsl(0, 68%, 79%);
-    padding: 5px;
-    margin: auto;
-    text-align: center;
-}
+  #subHeader {
+      font-family: 'Piazzolla', serif;
+      font-size: 24px;
+      color: rgb(255, 237, 211);
+  }
 
-#nightMode {
-    background-color: rgb(68, 50, 54);
-}
+  #bodyText {
+      font-family: 'Roboto', sans-serif;
+      width: 500px;
+      color: rgb(255, 237, 211);
+  }
+
+  #rounded {
+      border-radius: 25px;
+      background: hsl(0, 68%, 79%);
+      padding: 5px;
+      margin: auto;
+      text-align: center;
+  }
+
+  #nightMode {
+      background-color: rgb(68, 50, 54);
+  }
