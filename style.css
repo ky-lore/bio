@@ -1,0 +1,29 @@
+#header {
+    font-family: 'Piazzolla', serif;
+    margin: auto;
+    color: rgb(255, 237, 211);
+}
+
+#subHeader {
+    font-family: 'Piazzolla', serif;
+    font-size: 24px;
+    color: rgb(255, 237, 211);
+}
+
+#bodyText {
+    font-family: 'Roboto', sans-serif;
+    width: 500px;
+    color: rgb(255, 237, 211);
+}
+
+#rounded {
+    border-radius: 25px;
+    background: hsl(0, 68%, 79%);
+    padding: 5px;
+    margin: auto;
+    text-align: center;
+}
+
+#nightMode {
+    background-color: rgb(68, 50, 54);
+}
